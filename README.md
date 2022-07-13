@@ -1,6 +1,6 @@
 ### Hello, I'm Smile! 👋
 
-- 🔭 I’m currently working on completeing CS50Web from HarvardX
+- 🔭 I’m currently working on completing CS50Web from HarvardX
 - 🌱 I’m currently learning CI/CD within Django framework
 - ⚡ Fun fact: I grew up playing music
 - 😋 Foods I like: mostly EVERYTHING!!!
