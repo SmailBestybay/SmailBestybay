@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React
 - ⚡ Fun fact: I grew up playing music
 
-### Merged Open Source PRs
+### Open Source Contributions 
 - https://github.com/django/django/pull/16220
 - https://github.com/django/django/pull/16213
 - https://github.com/jazzband/django-debug-toolbar/pull/1687
