@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning React
 - ⚡ Fun fact: I grew up playing music
 
+### React Project
+- [Website for a video post production company (work in progress)](https://github.com/Yuzulix/NabePeroVideo)
+
 ### Open Source Contributions 
 - https://github.com/django/django/pull/16220
 - https://github.com/django/django/pull/16213
