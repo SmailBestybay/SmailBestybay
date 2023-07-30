@@ -1,11 +1,11 @@
 ## Hello, I'm Smile! 👋
-
-- 🔭 I’m currently working on completing Full Stack Open from University of Helsinki
-- 🌱 I’m currently learning React
-- ⚡ Fun fact: I grew up playing music
+🌱 I'm an early career developer with a focus on full stack web development. 
 
 ### React Project
 - [Website for a video post production company (work in progress)](https://github.com/Yuzulix/NabePeroVideo)
+
+### Django Project
+- [Ourtube, create custom youtube feeds](https://github.com/SmailBestybay/Web50Capstone)
 
 ### Open Source Contributions 
 - https://github.com/django/django/pull/16220
