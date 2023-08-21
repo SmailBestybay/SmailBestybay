@@ -1,22 +1,22 @@
-## Hello, I'm Smile! 👋
-🌱 I'm an early career developer with a focus on full stack web development. 
+# Hello, I'm Smile! 👋
+I am a full stack web developer, and here is the list of some of my work.
 
-### React Project
-- [Website for a video post production company (work in progress)](https://github.com/Yuzulix/NabePeroVideo)
 
-### Django Project
-- [Ourtube, create custom youtube feeds](https://github.com/SmailBestybay/Web50Capstone)
+### NabePero Video
+- Buisness website for a video post production company (work in progress) 
+- Made with React, and MaterialUI.
+- Currently live at https://nabeperovideo.netlify.app/
+- [repo link](https://github.com/Yuzulix/NabePeroVideo)
+
+### Ourtube
+- Full stack web app that lets you create custom youtube feeds.
+- Made with Django.
+- Developed as final project for Harvard's Web50 program. 
+-  [repo link](https://github.com/SmailBestybay/Web50Capstone)
 
 ### Open Source Contributions 
-- https://github.com/django/django/pull/16220
-- https://github.com/django/django/pull/16213
-- https://github.com/jazzband/django-debug-toolbar/pull/1687
-
-<!--- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
- --->
-
+- Contributions to The Django Project
+  - Improved "git rebase" example for upstream changes in working with Git docs. [PR](https://github.com/django/django/pull/16220)
+  - Corrected curl call in working with Git docs. [PR](https://github.com/django/django/pull/16213)
+- Contribution to Django Debug Toolbar
+  - Add divide by zero protection in timer.js [PR](https://github.com/jazzband/django-debug-toolbar/pull/1687)
