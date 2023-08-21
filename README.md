@@ -11,7 +11,7 @@ I am a full stack web developer, and here is the list of some of my work.
 ### Ourtube
 - Full stack web app that lets you create custom youtube feeds.
 - Made with Django.
-- Developed as final project for Harvard's Web50 program. 
+- Final project for Harvard's Web50 program. 
 -  [repo link](https://github.com/SmailBestybay/Web50Capstone)
 
 ### Open Source Contributions 
