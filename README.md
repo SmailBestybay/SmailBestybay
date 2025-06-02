@@ -13,6 +13,7 @@ I am a full stack software developer, and here is the list of some of my work.
 
 ### QA Portal 
 - Proof of concept Django app to trigger remote test automations
+- Uses celery for long running tasks such as Playwright test suites 
   
 ### NabePero Video
 - Buisness website for a video post production company (work in progress) 
