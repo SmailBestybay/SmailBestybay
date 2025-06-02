@@ -11,6 +11,9 @@ I am a full stack software developer, and here is the list of some of my work.
 ### Pending Open Source Contributions
 - Axe-html-reporter bug fix [PR](https://github.com/lpelypenko/axe-html-reporter/pull/44)
 
+### QA Portal 
+- Proof of concept Django app to trigger remote test automations
+  
 ### NabePero Video
 - Buisness website for a video post production company (work in progress) 
 - Made with React, and MaterialUI.
