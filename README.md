@@ -16,7 +16,7 @@ I am a full stack software developer, and here is the list of some of my work.
 - Uses celery for long running tasks such as Playwright test suites
 - [repo link](https://github.com/SmailBestybay/qa-portal)
 
-## Playwrite Template 
+## Playwright Template 
 - Template e2e test stuite
 - [repo link](https://github.com/SmailBestybay/qa-portal)
 
