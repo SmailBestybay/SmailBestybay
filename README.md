@@ -18,6 +18,7 @@ I am a full stack software developer, and here is the list of some of my work.
 
 ## Playwrite Template 
 - Template e2e test stuite
+- [repo link](https://github.com/SmailBestybay/qa-portal)
 
 ## NabePero Video
 - Buisness website for a video post production company (work in progress) 
@@ -29,5 +30,5 @@ I am a full stack software developer, and here is the list of some of my work.
 - Full stack web app that lets you create custom youtube feeds.
 - Made with Django.
 - Final project for Harvard's Web50 program. 
--  [repo link](https://github.com/SmailBestybay/Web50Capstone)
+- [repo link](https://github.com/SmailBestybay/Web50Capstone)
 
